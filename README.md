@@ -27,3 +27,7 @@ DHT_PIN = 4
 
 And finally the code loop that goes next.  The “while True:” line will force everything indented after to run in an infinite loop.
 
+
+## connection of DHT11 with raspberry pi
+
+<img src="connection.png">
